@@ -1,6 +1,3 @@
-# app-dev
-My first repository.
-
 # My favorite series
 
 ### Six Flying Dragons
